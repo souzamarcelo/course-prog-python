@@ -3,3 +3,15 @@
 # Introdução à Programação
 
 Este é o repositório da disciplina de *Introdução à Programação* do curso de [Bacharelado em Engenharia de Software](https://www.udesc.br/ceavi/engenhariadesoftware) da [Universidade do Estado de Santa Catarina](https://www.udesc.br/ceavi). Esta obra está disponível sob uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
+
+## Conteúdo
+
+### Materiais
+
+| # | Tópico | Links                |
+|---|--------|----------------------|
+| 0 | Geral  | [visualizar](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/0-geral.ipynb), executar |
+
+### Projetos
+
+### Exercícios
