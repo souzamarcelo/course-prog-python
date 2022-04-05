@@ -18,3 +18,6 @@ Este é o repositório da disciplina de *Introdução à Programação* do curso
 1. [Avaliação física de atletas](./2-projetos/1-avaliacao-fisica/)
 
 ### Exercícios
+
++ [Lista de exercícios](./3-exercicios/lista-exercicios.pdf)
++ Soluções dos exercícios (a ser publicado)
