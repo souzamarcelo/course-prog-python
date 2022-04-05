@@ -14,6 +14,6 @@ Este é o repositório da disciplina de *Introdução à Programação* do curso
 
 ### Projetos
 
-1. Avaliação física de atletas: [[enunciado](./2-projetos/1-avaliacao-fisica/1-avaliacao-fisica.pdf)] [código-fonte].
+1. [Avaliação física de atletas](./2-projetos/1-avaliacao-fisica/)
 
 ### Exercícios
