@@ -10,7 +10,7 @@ Este é o repositório da disciplina de *Introdução à Programação* do curso
 
 | # | Tópico | Visualizar | Executar |
 |---|--------|------------|----------|
-| 0 | Comandos básicos  | [visualizar](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/0-geral.ipynb) | executar |
+| 0 | Comandos básicos  | [visualizar](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/0-comandos-basicos.ipynb) | executar |
 | 0 | Variáveis e operações básicas  | [visualizar](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/1-variaveis-operacoes.ipynb) | executar |
 
 ### Projetos
