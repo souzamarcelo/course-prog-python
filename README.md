@@ -10,7 +10,7 @@ Este é o repositório da disciplina de *Introdução à Programação* do curso
 
 | # | Tópico | Visualizar | Executar |
 |---|--------|------------|----------|
-| 0 | Comandos básicos  | [![View In NbViewer](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/0-comandos-basicos.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/0-comandos-basicos.ipynb) |
+| 0 | Comandos básicos  | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/0-comandos-basicos.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/0-comandos-basicos.ipynb) |
 | 1 | Variáveis e operações básicas  | [visualizar](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/1-variaveis-operacoes.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/1-variaveis-operacoes.ipynb) |
 
 ### Projetos
