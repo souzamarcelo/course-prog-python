@@ -8,10 +8,12 @@ Este é o repositório da disciplina de *Introdução à Programação* do curso
 
 ### Materiais
 
-| # | Tópico | Links                |
-|---|--------|----------------------|
-| 0 | Geral  | [visualizar](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/0-geral.ipynb), executar |
+| # | Tópico | Visualizar | Executar |
+|---|--------|------------|----------|
+| 0 | Comandos básicos  | [visualizar](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/0-geral.ipynb) | executar |
 
 ### Projetos
+
+1. Avaliação física de atletas: [[enunciado](./2-projetos/1-avaliacao-fisica/1-avaliacao-fisica.pdf)] [código-fonte].
 
 ### Exercícios
