@@ -23,3 +23,21 @@ Este é o repositório da disciplina de *Introdução à Programação* do curso
 
 + [Lista de exercícios](./3-exercicios/lista-exercicios.pdf)
 + [Soluções dos exercícios](./3-exercicios/src)
+
+***
+
+## Citação
+
+Aqui estão instruções de citação, caso você utilize esse material de alguma forma.
+
+Marcelo de Souza (2022), Notas de Aula: Introdução à Programação. Online: https://github.com/souzamarcelo/course-prog-python. Creative Commons BY-NC-ND 4.0.
+
+```bibtex
+@Misc{Souza2018lnds,
+    title =        {Notas de Aula: Introdução à Programação},
+    author =       {Marcelo de Souza}, 
+    howPublished = {\url{https://github.com/souzamarcelo/course-prog-python}}, 
+    year =         {2022},
+    note =         {Creative Commons BY-NC-ND 4.0.}
+}
+```
