@@ -22,4 +22,4 @@ Este é o repositório da disciplina de *Introdução à Programação* do curso
 ### Exercícios
 
 + [Lista de exercícios](./3-exercicios/lista-exercicios.pdf)
-+ Soluções dos exercícios (a ser publicado)
++ [Soluções dos exercícios](./3-exercicios/src)
