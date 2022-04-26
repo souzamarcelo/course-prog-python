@@ -1,5 +1,7 @@
-preco = float(input('Preço da mercadoria: '))
-percentual = float(input('Percentual de desconto: '))
+import sys
+
+preco = float(sys.argv[1])
+percentual = float(sys.argv[2])
 valor_desconto = preco * percentual / 100
 valor_pagar = preco - valor_desconto
 
