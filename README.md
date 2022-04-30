@@ -16,8 +16,8 @@ Este é o repositório da disciplina de *Introdução à Programação* do curso
 
 ### Projetos
 
-1. [Avaliação física de atletas](./2-projetos/1-avaliacao-fisica/1-avaliacao-fisica.pdf) ([implementação](./2-projetos/1-avaliacao-fisica/src/))
-2. [Problema da mochila](./2-projetos/2-problema-mochila/2-problema-mochila.pdf)
+1. [Avaliação física de atletas](./2-projetos/avaliacao-fisica/avaliacao-fisica.pdf) ([implementação](./2-projetos/avaliacao-fisica/src/))
+2. [Problema da mochila](./2-projetos/problema-mochila/problema-mochila.pdf)
 
 ### Exercícios
 
