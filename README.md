@@ -17,7 +17,6 @@ Este é o repositório da disciplina de *Introdução à Programação* do curso
 | 6 | Manipulação de strings  | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/6-manipulacao-strings.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/6-manipulacao-strings.ipynb) |
 | 7 | Matrizes  | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/7-matrizes.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/7-matrizes.ipynb) |
 
-***
 
 ## Exercícios
 
