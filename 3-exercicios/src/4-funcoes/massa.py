@@ -24,6 +24,6 @@ minutos = int(tempo_f / 60)
 tempo_f = tempo_f - (minutos * 60)
 segundos = tempo_f
 
-print('Massa inicial: %.1f' % massa_i)
-print('Massa final: %.1f' % massa_f)
-print('Tempo: %d horas, %d minutos, %d segundos' % (horas, minutos, segundos))
+print(f'Massa inicial: {massa_i:.1f}')
+print(f'Massa final: {massa_f:.1f}')
+print(f'Tempo: {horas} horas, {minutos} minutos, {segundos} segundos')

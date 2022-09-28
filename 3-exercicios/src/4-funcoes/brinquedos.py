@@ -36,8 +36,8 @@ while dados != None:
 
     dados = leitura()
 
-print('Esferas 10cm: %d' % esferas_10)
-print('Esferas 15cm: %d' % esferas_15)
-print('Esferas 20cm: %d' % esferas_20)
-print('Esferas 25cm: %d' % esferas_25)
-print('Caixas com diagonal maior que 25cm: %d' % maior_25)
+print(f'Esferas 10cm: {esferas_10}')
+print(f'Esferas 15cm: {esferas_15}')
+print(f'Esferas 20cm: {esferas_20}')
+print(f'Esferas 25cm: {esferas_25}')
+print(f'Caixas com diagonal maior que 25cm: {maior_25}')

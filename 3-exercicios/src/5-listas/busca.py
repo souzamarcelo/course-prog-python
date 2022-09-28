@@ -7,6 +7,6 @@ x = int(input('Informe o valor a ser buscado: '))
 
 for i in range(len(valores)):
     if valores[i] == x:
-        print('Valor encontrado na posição %d!' % i)
+        print(f'Valor encontrado na posição {i}!')
         exit()
-print('Valor %d não encontrado na lista %s' % (x, valores))
+print(f'Valor {x} não encontrado na lista {valores}')

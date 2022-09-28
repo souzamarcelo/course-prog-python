@@ -25,8 +25,8 @@ for i in range(3, len(sys.argv), 3):
         perimetro = perimetro_triangulo(x, y, z)
         perimetro_total += perimetro
         quantidade += 1
-        print('; perímetro: %d.' % perimetro, end = '')
+        print(f'; perímetro: {perimetro}}.', end = '')
     print()
 
-print('Perímetro total: %d.' % perimetro_total)
-print('Perímetro médio: %.1f.' % (perimetro_total / quantidade))
+print(f'Perímetro total: {perimetro_total}.')
+print(f'Perímetro médio: {perimetro_total / quantidade:.1f}.')

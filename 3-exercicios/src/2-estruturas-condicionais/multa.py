@@ -4,4 +4,4 @@ velocidade = int(velocidade)
 if velocidade > 80:
     print('Você foi multado!')
     valor_multa = (velocidade - 80) * 30
-    print('A multa é de $%.2f.' % valor_multa)
+    print(f'A multa é de ${valor_multa:.2f}.')

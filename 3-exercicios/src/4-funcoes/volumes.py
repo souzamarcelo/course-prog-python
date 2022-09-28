@@ -28,4 +28,4 @@ if forma == 'esfera':
 if forma == 'cone':
     volume = cone(int(sys.argv[2]), int(sys.argv[3]))
 
-print('Volume do/a %s: %.1f' % (forma, volume))
+print(f'Volume do/a {forma}: {volume:.1f}')

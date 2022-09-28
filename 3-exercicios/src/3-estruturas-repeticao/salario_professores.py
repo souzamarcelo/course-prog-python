@@ -20,10 +20,10 @@ while classe == 'A' or classe == 'B':
         quantidade_b = quantidade_b + 1
         salarios_b = salarios_b + salario_liquido
     
-    print('Salário bruto: %.2f' % salario_bruto)
-    print('Salário líquido: %.2f' % salario_liquido)
+    print(f'Salário bruto: {salario_bruto:.2f}')
+    print(f'Salário líquido: {salario_liquido:.2f}')
 
     classe = input('Informe classe: ')
 
-print('Média de salários líquidos da classe A: %.2f' % (salarios_a / quantidade_a))
-print('Média de salários líquidos da classe B: %.2f' % (salarios_b / quantidade_b))
+print(f'Média de salários líquidos da classe A: {salarios_a / quantidade_a:.2f}')
+print(f'Média de salários líquidos da classe B: {salarios_b / quantidade_b:.2f}')

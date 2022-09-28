@@ -4,8 +4,8 @@ b = []
 c = []
 
 for i in range(n):
-    a.append(int(input('Informe o elemento %d da lista A: ' % i)))
-    b.append(int(input('Informe o elemento %d da lista B: ' % i)))
+    a.append(int(input(f'Informe o elemento {i} da lista A: ')))
+    b.append(int(input(f'Informe o elemento {i} da lista B: ')))
 
 for i in range(n):
     if i % 2 == 0:

@@ -20,4 +20,4 @@ else:
     print('Tipo inválido!')
     exit()
 
-print('Preço a pagar é de $%.2f.' % preco)
+print(f'Preço a pagar é de ${preco:.2f}.')

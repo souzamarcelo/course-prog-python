@@ -8,4 +8,4 @@ for i in range(1, 13):
     deposito_mes = float(input('Depósito do mês ' + str(i) + ': '))
     montante = montante + deposito_mes
     montante = montante + (montante * taxa)
-    print('Mês %d: R$ %.2f' % (i, montante))
+    print(f'Mês {i}: R$ {montante:.2f}')

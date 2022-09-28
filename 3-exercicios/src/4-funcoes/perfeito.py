@@ -14,7 +14,7 @@ def perfeito(n):
 
 import sys
 n = int(sys.argv[1])
-print('n = %d' % n)
+print(f'n = {n}')
 print('Divisores: ' + str(divisores(n)))
-if perfeito(n): print('%d é um número perfeito!' % n)
-else: print('%d NÃO é um número perfeito!' % n)
+if perfeito(n): print(f'{n} é um número perfeito!')
+else: print(f'{n} NÃO é um número perfeito!')

@@ -15,4 +15,4 @@ elif media < 8:
 else:
     print('Conceito A')
 
-print('Média: %.1f' % media)
+print(f'Média: {media:.1f}')

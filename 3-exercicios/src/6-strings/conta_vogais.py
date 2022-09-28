@@ -18,12 +18,12 @@ def conta_vogais_caractere(texto):
             qtd_u += 1
 
     total = qtd_a + qtd_e + qtd_i + qtd_o + qtd_u
-    print('Quantidade a: %d' % qtd_a)
-    print('Quantidade e: %d' % qtd_e)
-    print('Quantidade i: %d' % qtd_i)
-    print('Quantidade o: %d' % qtd_o)
-    print('Quantidade u: %d' % qtd_u)
-    print('Quantidade total de vogais: %d' % total)
+    print(f'Quantidade a: {qtd_a}')
+    print(f'Quantidade e: {qtd_e}')
+    print(f'Quantidade i: {qtd_i}')
+    print(f'Quantidade o: {qtd_o}')
+    print(f'Quantidade u: {qtd_u}')
+    print(f'Quantidade total de vogais: {total}')
 
 def conta_vogais_count(texto):
     texto = texto.lower()
@@ -33,12 +33,12 @@ def conta_vogais_count(texto):
     qtd_o = texto.count('o')
     qtd_u = texto.count('u')
     total = qtd_a + qtd_e + qtd_i + qtd_o + qtd_u
-    print('Quantidade a: %d' % qtd_a)
-    print('Quantidade e: %d' % qtd_e)
-    print('Quantidade i: %d' % qtd_i)
-    print('Quantidade o: %d' % qtd_o)
-    print('Quantidade u: %d' % qtd_u)
-    print('Quantidade total de vogais: %d' % total)
+    print(f'Quantidade a: {qtd_a}')
+    print(f'Quantidade e: {qtd_e}')
+    print(f'Quantidade i: {qtd_i}')
+    print(f'Quantidade o: {qtd_o}')
+    print(f'Quantidade u: {qtd_u}')
+    print(f'Quantidade total de vogais: {total}')
     return total
 
 frase = input('Digite uma frase: ')
@@ -46,4 +46,4 @@ print(frase)
 #conta_vogais_caractere(frase)
 vogais = conta_vogais_count(frase)
 nao_vogais = len(frase) - vogais
-print('Quantidade total de não vogais: %d' % nao_vogais)
+print(f'Quantidade total de não vogais: {nao_vogais}')

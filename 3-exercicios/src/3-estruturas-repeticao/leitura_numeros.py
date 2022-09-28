@@ -7,6 +7,6 @@ while numero != 0:
     soma = soma + numero
     numero = int(input('Informe número: '))
 
-print('Quantidade: %d' % quantidade)
-print('Soma: %d' % soma)
-print('Média: %.1f' % (soma / quantidade))
+print(f'Quantidade: {quantidade}')
+print(f'Soma: {soma}')
+print(f'Média: {soma / quantidade:.1f}')

@@ -5,4 +5,4 @@ if salario > 1250:
 else:
     aumento = salario * 0.15
 
-print('Aumento: %.1f' % aumento)
+print(f'Aumento: {aumento:.1f}')
