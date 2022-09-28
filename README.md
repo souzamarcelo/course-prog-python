@@ -4,9 +4,7 @@
 
 Este é o repositório da disciplina de *Introdução à Programação* do curso de [Bacharelado em Engenharia de Software](https://www.udesc.br/ceavi/engenhariadesoftware) da [Universidade do Estado de Santa Catarina](https://www.udesc.br/ceavi). Esta obra está disponível sob uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
-## Conteúdo
-
-### Materiais
+## Materiais
 
 | # | Tópico | Visualizar | Executar |
 |---|--------|------------|----------|
@@ -19,7 +17,9 @@ Este é o repositório da disciplina de *Introdução à Programação* do curso
 | 6 | Manipulação de strings  | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/6-manipulacao-strings.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/6-manipulacao-strings.ipynb) |
 | 7 | Matrizes  | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/7-matrizes.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/7-matrizes.ipynb) |
 
-### Exercícios
+***
+
+## Exercícios
 
 + [Lista de exercícios](./3-exercicios/lista-exercicios.pdf)
 + [Soluções dos exercícios](./3-exercicios/src)
