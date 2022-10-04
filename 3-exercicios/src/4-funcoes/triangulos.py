@@ -10,7 +10,7 @@ def tipo_triangulo(x, y, z):
 
 import sys
 
-for i in range(3, len(sys.argv), 3):
+for i in range(3, 16, 3):
     x = int(sys.argv[i - 2])
     y = int(sys.argv[i - 1])
     z = int(sys.argv[i])
