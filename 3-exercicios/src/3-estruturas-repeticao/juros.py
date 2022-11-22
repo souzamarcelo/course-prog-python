@@ -6,4 +6,4 @@ taxa = float(sys.argv[2])
 montante = deposito
 for i in range(1, 25):
     montante = montante + (montante * taxa)
-    print('Mês %d: R$ %.2f' % (i, montante))
+    print(f'Mês {i}: R$ {montante:.2f}')

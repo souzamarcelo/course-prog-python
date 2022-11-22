@@ -10,7 +10,7 @@ if op == 1:
     if salario < 500: imposto = salario * 0.05
     elif salario <= 850: imposto = salario * 0.1
     else: imposto = salario * 0.15
-    print('Imposto: $%.1f' % imposto)
+    print(f'Imposto: ${imposto:.1f}')
 
 elif op == 2:
     salario = float(input('Informe o salário: '))
@@ -18,7 +18,7 @@ elif op == 2:
     elif salario >= 750: novo = salario + 50
     elif salario >= 450: novo = salario + 75
     else: novo = salario + 100
-    print('Novo salário: $%.1f' % novo)
+    print(f'Novo salário: ${novo:.1f}')
 
 elif op == 3:
     salario = float(input('Informe o salário: '))

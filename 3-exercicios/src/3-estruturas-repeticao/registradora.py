@@ -20,4 +20,4 @@ while codigo != 0:
     
     codigo = int(input('Código do produto: '))
 
-print('Total: R$ %.2f' % total)
+print(f'Total: R$ {total:.2f}')

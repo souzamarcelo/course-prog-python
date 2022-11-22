@@ -4,9 +4,7 @@
 
 Este é o repositório da disciplina de *Introdução à Programação* do curso de [Bacharelado em Engenharia de Software](https://www.udesc.br/ceavi/engenhariadesoftware) da [Universidade do Estado de Santa Catarina](https://www.udesc.br/ceavi). Esta obra está disponível sob uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
-## Conteúdo
-
-### Materiais
+## Materiais
 
 | # | Tópico | Visualizar | Executar |
 |---|--------|------------|----------|
@@ -14,13 +12,13 @@ Este é o repositório da disciplina de *Introdução à Programação* do curso
 | 1 | Variáveis e operações básicas  | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/1-variaveis-operacoes.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/1-variaveis-operacoes.ipynb) |
 | 2 | Estruturas condicionais  | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/2-estruturas-condicionais.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/2-estruturas-condicionais.ipynb) |
 | 3 | Estruturas de repetição  | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/3-estruturas-repeticao.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/3-estruturas-repeticao.ipynb) |
+| 4 | Funções  | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/4-funcoes.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/4-funcoes.ipynb) |
+| 5 | Listas  | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/5-listas.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/5-listas.ipynb) |
+| 6 | Matrizes  | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/6-matrizes.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/6-matrizes.ipynb) |
+| 7 | Manipulação de strings  | [![View In NbViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/souzamarcelo/course-prog-python/blob/main/1-materiais/7-manipulacao-strings.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/souzamarcelo/course-prog-python/blob/main/1-materiais/7-manipulacao-strings.ipynb) |
 
-### Projetos
 
-1. [Avaliação física de atletas](./2-projetos/avaliacao-fisica/avaliacao-fisica.pdf) ([implementação](./2-projetos/avaliacao-fisica/src/))
-2. [Problema da mochila](./2-projetos/problema-mochila/problema-mochila.pdf)
-
-### Exercícios
+## Exercícios
 
 + [Lista de exercícios](./3-exercicios/lista-exercicios.pdf)
 + [Soluções dos exercícios](./3-exercicios/src)

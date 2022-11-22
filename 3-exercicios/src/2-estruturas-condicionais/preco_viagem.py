@@ -5,4 +5,4 @@ if km <= 200:
 else:
     preco = km * 0.45
 
-print('Preço da passagem: %.1f' % preco)
+print(f'Preço da passagem: {preco:.1f}')
