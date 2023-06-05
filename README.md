@@ -32,7 +32,7 @@ Aqui estão instruções de citação, caso você utilize esse material de algum
 Marcelo de Souza (2022), Notas de Aula: Introdução à Programação. Online: https://github.com/souzamarcelo/course-prog-python. Creative Commons BY-NC-ND 4.0.
 
 ```bibtex
-@Misc{Souza2018prog,
+@Misc{Souza2022prog,
     title =        {Notas de Aula: Introdução à Programação},
     author =       {Marcelo de Souza}, 
     howPublished = {\url{https://github.com/souzamarcelo/course-prog-python}}, 
